@@ -8,7 +8,7 @@
 <br>
 
 ## 💫 About Me:
-🔭 𝐈’𝐦 𝐜𝐮𝐫𝐫𝐞𝐧𝐭𝐥𝐲 𝐰𝐨𝐫𝐤𝐢𝐧𝐠 𝐰𝐞𝐛 𝐬𝐲𝐬𝐭𝐞𝐦 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐞<br>👯 𝐈’𝐦 𝐁.𝐓𝐞𝐜𝐡 𝐒𝐭𝐮𝐝𝐞𝐧𝐭 𝐝𝐚𝐭𝐚 𝐬𝐜𝐢𝐞𝐧𝐜𝐞<br>🌱 𝐈’𝐦 𝐜𝐮𝐫𝐫𝐞𝐧𝐭𝐥𝐲 𝐥𝐞𝐚𝐫𝐧𝐢𝐧𝐠  𝐑𝐞𝐚𝐜𝐭.𝐣𝐬 & 𝐍𝐨𝐝𝐞.𝐣𝐬<br>💬 𝐀𝐬𝐤 𝐦𝐞 𝐚𝐛𝐨𝐮𝐭 𝐖𝐞𝐛 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭<br>⚡ 𝐌𝐲 𝐎𝐫𝐠𝐚𝐧𝐢𝐳𝐚𝐭𝐢𝐨𝐧𝐬 𝐂𝐘𝐍𝐎𝐑 <br> <br> <br> ᴄʏɴᴏʀ ᴄᴜꜱᴛᴏᴍ ᴡᴇʙ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ ꜱᴇʀᴠɪᴄᴇꜱ ɪɴᴄʟᴜᴅᴇ ʙᴏᴛʜ ꜰʀᴏɴᴛ-ᴇɴᴅ ᴀɴᴅ ʙᴀᴄᴋ-ᴇɴᴅ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ. ᴡʜᴇᴛʜᴇʀ ɪᴛ ɪꜱ ᴇɴʜᴀɴᴄɪɴɢ ᴀɴ ᴇxɪꜱᴛɪɴɢ ᴀᴘᴘ ᴏʀ ᴀʀᴄʜɪᴛᴇᴄᴛɪɴɢ ᴀɴ ᴇɴᴛᴇʀᴘʀɪꜱᴇ ᴀᴘᴘ, ᴏᴜʀ ᴅᴇᴠᴇʟᴏᴘᴇʀꜱ ᴀʀᴇ ᴜᴘ ꜰᴏʀ ᴛʜᴇ ᴄʜᴀʟʟᴇɴɢᴇ..
+🔭 𝐈’𝐦 𝐜𝐮𝐫𝐫𝐞𝐧𝐭𝐥𝐲 𝐰𝐨𝐫𝐤𝐢𝐧𝐠 AI 𝐰𝐞𝐛 𝐬𝐲𝐬𝐭𝐞𝐦 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐞<br>👯 𝐈’𝐦 𝐁.𝐓𝐞𝐜𝐡 A.I.M.L. 𝐒𝐭𝐮𝐝𝐞𝐧𝐭 <br>🌱 𝐈’𝐦 𝐜𝐮𝐫𝐫𝐞𝐧𝐭𝐥𝐲 𝐥𝐞𝐚𝐫𝐧𝐢𝐧𝐠  Python & C++<br>💬 𝐀𝐬𝐤 𝐦𝐞 𝐚𝐛𝐨𝐮𝐭 A.I.<br>⚡ 𝐌𝐲 𝐎𝐫𝐠𝐚𝐧𝐢𝐳𝐚𝐭𝐢𝐨𝐧𝐬 𝐂𝐘𝐍𝐎𝐑 <br> <br> <br> ᴄʏɴᴏʀ ᴄᴜꜱᴛᴏᴍ ᴡᴇʙ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ ꜱᴇʀᴠɪᴄᴇꜱ ɪɴᴄʟᴜᴅᴇ ʙᴏᴛʜ ꜰʀᴏɴᴛ-ᴇɴᴅ ᴀɴᴅ ʙᴀᴄᴋ-ᴇɴᴅ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ. ᴡʜᴇᴛʜᴇʀ ɪᴛ ɪꜱ ᴇɴʜᴀɴᴄɪɴɢ ᴀɴ ᴇxɪꜱᴛɪɴɢ ᴀᴘᴘ ᴏʀ ᴀʀᴄʜɪᴛᴇᴄᴛɪɴɢ ᴀɴ ᴇɴᴛᴇʀᴘʀɪꜱᴇ ᴀᴘᴘ, ᴏᴜʀ ᴅᴇᴠᴇʟᴏᴘᴇʀꜱ ᴀʀᴇ ᴜᴘ ꜰᴏʀ ᴛʜᴇ ᴄʜᴀʟʟᴇɴɢᴇ..
 
  [Company Website](https://cynor2020.github.io/a/)
 
@@ -18,7 +18,7 @@
 
 
 ## 🌐 Socials:
-[![Facebookk](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sarthak.gadakh.patil) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sarthak_gadakh__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sarthak-gadakh-founder-cynor) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17393220) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/sarthakgadakh) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Cynorofficial) 
+[![Facebookk](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/aditya.gangurde.58910) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/aditya_gangurde__?igsh=MW85eTJsdmw4eXowNw==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-gangurde-9a0346320?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](StackOverflow) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](X) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Cynorofficial) 
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
