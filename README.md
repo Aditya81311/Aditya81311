@@ -34,7 +34,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Aditya81311&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Cynor2020&theme=github_dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Cynor2020&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya81311&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
@@ -48,10 +48,10 @@
 </p>
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Cynor2020&limit=5&theme=react&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Aditya81311&limit=5&theme=react&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Cynor2020&icon=10&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Aditya81311&icon=10&color=0)](https://visitcount.itsvg.in)
 
 
 <p align="center">
