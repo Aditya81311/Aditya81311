@@ -8,9 +8,9 @@
 <br>
 
 ## 💫 About Me:
-🔭 𝐈’𝐦 𝐜𝐮𝐫𝐫𝐞𝐧𝐭𝐥𝐲 𝐰𝐨𝐫𝐤𝐢𝐧𝐠 On AI  𝐬𝐲𝐬𝐭𝐞𝐦 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐞r<br>👯 𝐈’𝐦 𝐁.𝐓𝐞𝐜𝐡 A.I.M.L. 𝐒𝐭𝐮𝐝𝐞𝐧𝐭 <br>🌱 𝐈’𝐦 𝐜𝐮𝐫𝐫𝐞𝐧𝐭𝐥𝐲 𝐥𝐞𝐚𝐫𝐧𝐢𝐧𝐠  Python & C++<br>💬 𝐀𝐬𝐤 𝐦𝐞 𝐚𝐛𝐨𝐮𝐭 A.I.<br>
+🔭 𝐈’𝐦 𝐜𝐮𝐫𝐫𝐞𝐧𝐭𝐥𝐲 𝐰𝐨𝐫𝐤𝐢𝐧𝐠 On AI 𝐬𝐲𝐬𝐭𝐞𝐦s<br>👯 𝐈’𝐦 𝐁.𝐓𝐞𝐜𝐡 A.I.M.L. 𝐒𝐭𝐮𝐝𝐞𝐧𝐭 <br>🌱 𝐈’𝐦 𝐜𝐮𝐫𝐫𝐞𝐧𝐭𝐥𝐲 𝐥𝐞𝐚𝐫𝐧𝐢𝐧𝐠  Python , Machine Learning & C++<br>💬 𝐀𝐬𝐤 𝐦𝐞 𝐚𝐛𝐨𝐮𝐭 A.I.<br>
 
- [Company Website](https://cynor2020.github.io/a/)
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
